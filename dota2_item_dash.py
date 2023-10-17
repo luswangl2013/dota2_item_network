@@ -27,7 +27,7 @@ elements = nodes + edges
 app.layout = html.Div([
     cyto.Cytoscape(
         id='cytoscape-two-nodes',
-        layout={'name': 'cose'},
+        layout={'name': 'cose'}, #circle , concentric , breadthfirst 
         style={'width': '100%', 'height': '1000px'},
         elements=elements,
         stylesheet=[{
