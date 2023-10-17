@@ -46,26 +46,75 @@ app.layout = html.Div([
                 }
             },
             {
-                'selector': '[category *= "a"]',
+                'selector': '[category *= "basic_attributes"]',
                 'style': {
-                    'background-color': '#6495ED'
+                    'background-color': '#fb4b4b'
                     #'shape': 'rectangle'
                 }
             },
             {
-                'selector': '[category *= "b"]',
+                'selector': '[category *= "basic_equipment"]',
                 'style': {
-                    'background-color': '#FF4136'
+                    'background-color': '#fb874b'
                     #'shape': 'rectangle'
                 }
             },
             {
-                'selector': '[category *= "c"]',
+                'selector': '[category *= "basic_miscellaneous"]',
                 'style': {
-                   'background-color': '#DFFF00'
+                   'background-color': '#fbc34b'
                     #'shape': 'rectangle'
                 }
             },
+            {
+                'selector': '[category *= "basic_secretshop"]',
+                'style': {
+                    'background-color': '#fbed4b'
+                    #'shape': 'rectangle'
+                }
+            },
+            {
+                'selector': '[category *= "upgrades_accessories"]',
+                'style': {
+                    'background-color': '#a2fb4b'
+                    #'shape': 'rectangle'
+                }
+            },
+            {
+                'selector': '[category *= "upgrades_support"]',
+                'style': {
+                    'background-color': '#4bfb80'
+                    #'shape': 'rectangle'
+                }
+            },
+            {
+                'selector': '[category *= "upgrades_magical"]',
+                'style': {
+                    'background-color': '#4bfbf5'
+                    #'shape': 'rectangle'
+                }
+            },
+            {
+                'selector': '[category *= "upgrades_armor"]',
+                'style': {
+                    'background-color': '#4ba6fb'
+                    #'shape': 'rectangle'
+                }
+            },
+            {
+                'selector': '[category *= "upgrades_weapons"]',
+                'style': {
+                    'background-color': '#4b67fb'
+                    #'shape': 'rectangle'
+                }
+            },
+{
+                'selector': '[category *= "upgrades_artifacts"]',
+                'style': {
+                    'background-color': '#142ffd'
+                    #'shape': 'rectangle'
+                }
+            },                    
             ]
     )
 ])
