@@ -2,7 +2,7 @@ import pandas as pd
 from dash import Dash, html
 import dash_cytoscape as cyto
 
-df = pd.read_csv("./dota2_7.22_item.csv")
+df = pd.read_csv("./dota2_7.33_item.csv")
 
 print(df)
 app = Dash(__name__)
