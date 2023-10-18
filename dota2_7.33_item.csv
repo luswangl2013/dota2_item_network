@@ -72,11 +72,18 @@ Claymore,Satanic,basic_equipment
 Gloves of Haste,Power Treads,basic_equipment
 Gloves of Haste,Hand of Midas,basic_equipment
 Gloves of Haste,Armlet of Mordiggian,basic_equipment
-Helm of Iron Will,,basic_equipment
+Helm of Iron Will,Nullifier,basic_equipment
+Helm of Iron Will,Crimson Guard,basic_equipment
+Helm of Iron Will,Armlet of Mordiggian,basic_equipment
+Helm of Iron Will,Helm of the Dominator,basic_equipment
 Infused Raindrops,,basic_equipment
-Javelin,,basic_equipment
-Mithril Hammer,,basic_equipment
-Orb of Venom,,basic_equipment
+Javelin,Monkey King Bar,basic_equipment
+Javelin,Maelstrom,basic_equipment
+Mithril Hammer,Black King Bar,basic_equipment
+Mithril Hammer,Skull Basher,basic_equipment
+Mithril Hammer,Maelstrom,basic_equipment
+Mithril Hammer,Desolator,basic_equipment
+Orb of Venom,Orb of Corrosion,basic_equipment
 Quarterstaff,,basic_equipment
 Quelling Blade,,basic_equipment
 Ring of Protection,,basic_equipment
