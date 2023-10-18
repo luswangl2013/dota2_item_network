@@ -14,7 +14,10 @@ Circlet,Bracer,basic_attributes
 Circlet,Wraith Band,basic_attributes
 Circlet,Null Talisman,basic_attributes
 Circlet,Urn of Shadows,basic_attributes
-Crown,,basic_attributes
+Crown,Meteor Hammer,basic_attributes
+Crown,Solar Crest,basic_attributes
+Crown,Spirit Vessel,basic_attributes
+Crown,Veil of Discord,basic_attributes
 Diadem,,basic_attributes
 Gauntlets of Strength,,basic_attributes
 Iron Branch,,basic_attributes
