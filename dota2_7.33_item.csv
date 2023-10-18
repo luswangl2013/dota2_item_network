@@ -57,10 +57,21 @@ Blitz Knuckles,Witch Blade,basic_equipment
 Blitz Knuckles,Orchid Malevolence,basic_equipment
 Blitz Knuckles,Monkey King Bar,basic_equipment
 Blitz Knuckles,Shadow Blade,basic_equipment
-Broadsword,,basic_equipment
-Chainmail,,basic_equipment
-Claymore,,basic_equipment
-Gloves of Haste,,basic_equipment
+Broadsword,Blade Mail,basic_equipment
+Broadsword,Battle Fury,basic_equipment
+Broadsword,Crystalys,basic_equipment
+Broadsword,Shadow Blade,basic_equipment
+Chainmail,Phase Boots,basic_equipment
+Chainmail,Witch Blade,basic_equipment
+Chainmail,Blade Mail,basic_equipment
+Chainmail,Medallion of Courage,basic_equipment
+Chainmail,Mekansm,basic_equipment
+Claymore,Orchid Malevolence,basic_equipment
+Claymore,Battle Fury,basic_equipment
+Claymore,Satanic,basic_equipment
+Gloves of Haste,Power Treads,basic_equipment
+Gloves of Haste,Hand of Midas,basic_equipment
+Gloves of Haste,Armlet of Mordiggian,basic_equipment
 Helm of Iron Will,,basic_equipment
 Infused Raindrops,,basic_equipment
 Javelin,,basic_equipment
