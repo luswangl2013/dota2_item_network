@@ -23,11 +23,21 @@ Diadem,Harpoon,basic_attributes
 Diadem,Helm of the Dominator,basic_attributes
 Diadem,Holy Locket,basic_attributes
 Diadem,Phylactery,basic_attributes
-Gauntlets of Strength,,basic_attributes
-Iron Branch,,basic_attributes
-Mantle of Intelligence,,basic_attributes
-Ogre Axe,,basic_attributes
-Robe of the Magi,,basic_attributes
+Gauntlets of Strength,Bracer,basic_attributes
+Gauntlets of Strength,Soul Ring,basic_attributes
+Iron Branch,Magic Wand,basic_attributes
+Mantle of Intelligence,Null Talisman,basic_attributes
+Ogre Axe,Aghanim's Scepter,basic_attributes
+Ogre Axe,Black King Bar,basic_attributes
+Ogre Axe,Echo Sabre,basic_attributes
+Ogre Axe,Eternal Shroud,basic_attributes
+Ogre Axe,Sange,basic_attributes
+Robe of the Magi,Power Treads,basic_attributes
+Robe of the Magi,Oblivion Staff,basic_attributes
+Robe of the Magi,Witch Blade,basic_attributes
+Robe of the Magi,Kaya,basic_attributes
+Robe of the Magi,Diffusal Blade,basic_attributes
+Robe of the Magi,Drum of Endurance,basic_attributes
 Slippers of Agility,,basic_attributes
 Staff of Wizardry,,basic_attributes
 Blades of Attack,,basic_equipment
