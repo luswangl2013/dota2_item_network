@@ -34,9 +34,9 @@ app.layout = html.Div([
             'selector': 'edge',
                 'style': {
                     'curve-style': 'bezier',
-                    'target-arrow-color': 'blue',
+                    'target-arrow-color': 'grey',
                     'target-arrow-shape': 'vee',
-                    'line-color': 'blue'
+                    'line-color': 'grey'
                 }
         },
         {
