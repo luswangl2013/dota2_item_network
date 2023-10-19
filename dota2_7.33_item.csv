@@ -171,7 +171,9 @@ Ring of Health,Vanguard,basic_secretshop
 Sacred Relic,Nullifier,basic_secretshop
 Sacred Relic,Divine Rapier,basic_secretshop
 Sacred Relic,Radiance,basic_secretshop
-Talisman of Evasion,,basic_secretshop
+Talisman of Evasion,Radiance,basic_secretshop
+Talisman of Evasion,Butterfly,basic_secretshop
+Talisman of Evasion,Heaven's Halberd,basic_secretshop
 Ultimate Orb,,basic_secretshop
 Vitality Booster,,basic_secretshop
 Void Stone,,basic_secretshop
