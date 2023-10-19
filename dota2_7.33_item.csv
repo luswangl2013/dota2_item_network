@@ -110,10 +110,13 @@ Fluffy Hat,Orb of Corrosion,basic_miscellaneous
 Fluffy Hat,Pavise,basic_miscellaneous
 Fluffy Hat,Spirit Vessel,basic_miscellaneous
 Gem of True Sight,,basic_miscellaneous
-Ghost Scepter,,basic_miscellaneous
-Magic Stick,,basic_miscellaneous
-Morbid Mask,,basic_miscellaneous
-Ring of Regen,,basic_miscellaneous
+Ghost Scepter,Ethereal Blade,basic_miscellaneous
+Magic Stick,Magic Wand,basic_miscellaneous
+Morbid Mask,Satanic,basic_miscellaneous
+Morbid Mask,Mask of Madness,basic_miscellaneous
+Morbid Mask,Vladmir's Offering,basic_miscellaneous
+Ring of Regen,Headdress,basic_miscellaneous
+Ring of Regen,Tranquil Boots,basic_miscellaneous
 Sage's Mask,,basic_miscellaneous
 Shadow Amulet,,basic_miscellaneous
 Voodoo Mask,,basic_miscellaneous
