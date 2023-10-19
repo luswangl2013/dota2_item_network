@@ -176,9 +176,13 @@ Talisman of Evasion,Butterfly,basic_secretshop
 Talisman of Evasion,Heaven's Halberd,basic_secretshop
 Ultimate Orb,Scythe of Vyse,basic_secretshop
 Ultimate Orb,Linken's Sphere,basic_secretshop
-Ultimate Orb,,basic_secretshop
-Ultimate Orb,,basic_secretshop
-Vitality Booster,,basic_secretshop
+Ultimate Orb,Eye of Skadi,basic_secretshop
+Ultimate Orb,Manta Style,basic_secretshop
+Vitality Booster,Aeon Disk,basic_secretshop
+Vitality Booster,Heart of Tarrasque,basic_secretshop
+Vitality Booster,Rod of Atos,basic_secretshop
+Vitality Booster,Soul Booster,basic_secretshop
+Vitality Booster,Vanguard,basic_secretshop
 Void Stone,,basic_secretshop
 Boots of Travel,,upgrades_accessories
 Bracer,,upgrades_accessories
