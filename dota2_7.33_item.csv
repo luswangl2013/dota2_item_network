@@ -161,8 +161,13 @@ Point Booster,Aghanim's Scepter,basic_secretshop
 Point Booster,Soul Booster,basic_secretshop
 Point Booster,Eye of Skadi,basic_secretshop
 Point Booster,Phylactery,basic_secretshop
-Reaver,,basic_secretshop
-Ring of Health,,basic_secretshop
+Reaver,Heart of Tarrasque,basic_secretshop
+Reaver,Satanic,basic_secretshop
+Reaver,Overwhelming Blink,basic_secretshop
+Ring of Health,Eternal Shroud,basic_secretshop
+Ring of Health,Perseverance,basic_secretshop
+Ring of Health,Pipe of Insight,basic_secretshop
+Ring of Health,Vanguard,basic_secretshop
 Sacred Relic,,basic_secretshop
 Talisman of Evasion,,basic_secretshop
 Ultimate Orb,,basic_secretshop
