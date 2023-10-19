@@ -84,10 +84,14 @@ Mithril Hammer,Skull Basher,basic_equipment
 Mithril Hammer,Maelstrom,basic_equipment
 Mithril Hammer,Desolator,basic_equipment
 Orb of Venom,Orb of Corrosion,basic_equipment
-Quarterstaff,,basic_equipment
-Quelling Blade,,basic_equipment
+Quarterstaff,Oblivion Staff,basic_equipment
+Quarterstaff,Butterfly,basic_equipment
+Quarterstaff,Mask of Madness,basic_equipment
+Quelling Blade,Battle Fury,basic_equipment
 Ring of Protection,,basic_equipment
-,,basic_equipment
+Ring of Protection,,basic_equipment
+Ring of Protection,,basic_equipment
+Ring of Protection,,basic_equipment
 Blink Dagger,,basic_miscellaneous
 Boots of Speed,,basic_miscellaneous
 Cloak,,basic_miscellaneous
