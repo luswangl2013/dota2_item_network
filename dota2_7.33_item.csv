@@ -146,10 +146,21 @@ Energy Booster,Aeon Disk,basic_secretshop
 Energy Booster,Arcane Boots,basic_secretshop
 Energy Booster,Lotus Orb,basic_secretshop
 Energy Booster,Soul Booster,basic_secretshop
-Hyperstone,,basic_secretshop
-Mystic Staff,,basic_secretshop
-Platemail,,basic_secretshop
-Point Booster,,basic_secretshop
+Hyperstone,Assault Cuirass,basic_secretshop
+Hyperstone,Moon Shard,basic_secretshop
+Hyperstone,Mjollnir,basic_secretshop
+Mystic Staff,Scythe of Vyse,basic_secretshop
+Mystic Staff,Wind Waker,basic_secretshop
+Mystic Staff,Shiva's Guard,basic_secretshop
+Mystic Staff,Revenant's Brooch,basic_secretshop
+Mystic Staff,Arcane Blink,basic_secretshop
+Platemail,Assault Cuirass,basic_secretshop
+Platemail,Shiva's Guard,basic_secretshop
+Platemail,Lotus Orb,basic_secretshop
+Point Booster,Aghanim's Scepter,basic_secretshop
+Point Booster,Soul Booster,basic_secretshop
+Point Booster,Eye of Skadi,basic_secretshop
+Point Booster,Phylactery,basic_secretshop
 Reaver,,basic_secretshop
 Ring of Health,,basic_secretshop
 Sacred Relic,,basic_secretshop
