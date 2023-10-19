@@ -88,12 +88,18 @@ Quarterstaff,Oblivion Staff,basic_equipment
 Quarterstaff,Butterfly,basic_equipment
 Quarterstaff,Mask of Madness,basic_equipment
 Quelling Blade,Battle Fury,basic_equipment
-Ring of Protection,,basic_equipment
-Ring of Protection,,basic_equipment
-Ring of Protection,,basic_equipment
-Ring of Protection,,basic_equipment
-Blink Dagger,,basic_miscellaneous
-Boots of Speed,,basic_miscellaneous
+Ring of Protection,Buckler,basic_equipment
+Ring of Protection,Pavise,basic_equipment
+Ring of Protection,Soul Ring,basic_equipment
+Ring of Protection,Urn of Shadows,basic_equipment
+Blink Dagger,Overwhelming Blink,basic_miscellaneous
+Blink Dagger,Swift Blink,basic_miscellaneous
+Blink Dagger,Arcane Blink,basic_miscellaneous
+Boots of Speed,Boots of Travel,basic_miscellaneous
+Boots of Speed,Phase Boots,basic_miscellaneous
+Boots of Speed,Power Treads,basic_miscellaneous
+Boots of Speed,Arcane Boots,basic_miscellaneous
+Boots of Speed,Tranquil Boots,basic_miscellaneous
 Cloak,,basic_miscellaneous
 Fluffy Hat,,basic_miscellaneous
 Gem of True Sight,,basic_miscellaneous
