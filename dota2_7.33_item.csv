@@ -210,24 +210,29 @@ Soul Ring,,upgrades_accessories
 Wraith Band,,upgrades_accessories
 Arcane Boots,Guardian Greaves,upgrades_support
 Boots of Bearing,,upgrades_support
-Buckler,,upgrades_support
-Drum of Endurance,,upgrades_support
+Buckler,Assault Cuirass,upgrades_support
+Buckler,Vladmir's Offering,upgrades_support
+Buckler,Guardian Greaves,upgrades_support
+Drum of Endurance,Boots of Bearing,upgrades_support
 Guardian Greaves,,upgrades_support
-Headdress,,upgrades_support
+Headdress,Mekansm,upgrades_support
+Headdress,Holy Locket,upgrades_support
+Headdress,Pipe of Insight,upgrades_support
 Holy Locket,,upgrades_support
-Medallion of Courage,,upgrades_support
-Mekansm,,upgrades_support
+Medallion of Courage,Solar Crest,upgrades_support
+Mekansm,Guardian Greaves,upgrades_support
 Pavise,,upgrades_support
 Pipe of Insight,,upgrades_support
-Ring of Basilius,,upgrades_support
+Ring of Basilius,Veil of Discord,upgrades_support
+Ring of Basilius,Vladmir's Offering,upgrades_support
 Spirit Vessel,,upgrades_support
-Tranquil Boots,,upgrades_support
-Urn of Shadows,,upgrades_support
-Vladmir's Offering,,upgrades_support
-Aether Lens,,upgrades_support
-Aghanim's Blessing,,upgrades_support
-Aghanim's Scepter,,upgrades_support
-Dagon,,upgrades_support
+Tranquil Boots,Boots of Bearing,upgrades_support
+Urn of Shadows,Spirit Vessel,upgrades_support
+Vladmir's Offering,Helm of the Overlord,upgrades_support
+Aether Lens,,upgrades_magical
+Aghanim's Blessing,,upgrades_magical
+Aghanim's Scepter,,upgrades_magical
+Dagon,,upgrades_magical
 Eul's Scepter of Divinity,,upgrades_magical
 Force Staff,,upgrades_magical
 Gleipnir,,upgrades_magical
