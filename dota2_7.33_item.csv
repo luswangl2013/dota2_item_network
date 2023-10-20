@@ -268,7 +268,8 @@ Armlet of Mordiggian,,upgrades_weapons
 Battle Fury,,upgrades_weapons
 Bloodthorn,,upgrades_weapons
 Butterfly,,upgrades_weapons
-Crystalys,,upgrades_weapons
+Crystalys,Daedalus,upgrades_weapons
+Crystalys,Silver Edge,upgrades_weapons
 Daedalus,,upgrades_weapons
 Desolator,,upgrades_weapons
 Disperser,,upgrades_weapons
@@ -279,26 +280,33 @@ Monkey King Bar,,upgrades_weapons
 Nullifier,,upgrades_weapons
 Radiance,,upgrades_weapons
 Revenant's Brooch,,upgrades_weapons
-Shadow Blade,,upgrades_weapons
+Shadow Blade,Silver Edge,upgrades_weapons
 Silver Edge,,upgrades_weapons
-Skull Basher,,upgrades_weapons
+Skull Basher,Abyssal Blade,upgrades_weapons
 Arcane Blink,,upgrades_artifacts
-Diffusal Blade,,upgrades_artifacts
-Dragon Lance,,upgrades_artifacts
-Echo Sabre,,upgrades_artifacts
+Diffusal Blade,Disperser,upgrades_artifacts
+Dragon Lance,Hurricane Pike,upgrades_artifacts
+Echo Sabre,Harpoon,upgrades_artifacts
 Eye of Skadi,,upgrades_artifacts
 Harpoon,,upgrades_artifacts
 Heaven's Halberd,,upgrades_artifacts
-Kaya,,upgrades_artifacts
+Kaya,Yasha and Kaya,upgrades_artifacts
+Kaya,Ethereal Blade,upgrades_artifacts
+Kaya,Kaya and Sange,upgrades_artifacts
 Kaya and Sange,,upgrades_artifacts
-Maelstrom,,upgrades_artifacts
-Mage Slayer,,upgrades_artifacts
+Maelstrom,Gleipnir,upgrades_artifacts
+Maelstrom,Mjollnir,upgrades_artifacts
+Mage Slayer,Bloodthorn,upgrades_artifacts
 Mjollnir,,upgrades_artifacts
 Overwhelming Blink,,upgrades_artifacts
 Phylactery,,upgrades_artifacts
-Sange,,upgrades_artifacts
+Sange,Heaven's Halberd,upgrades_artifacts
+Sange,Sange and Yasha,upgrades_artifacts
+Sange,Kaya and Sange,upgrades_artifacts
 Sange and Yasha,,upgrades_artifacts
 Satanic,,upgrades_artifacts
 Swift Blink,,upgrades_artifacts
-Yasha,,upgrades_artifacts
+Yasha,Manta Style,upgrades_artifacts
+Yasha,Sange and Yasha,upgrades_artifacts
+Yasha,Yasha and Kaya,upgrades_artifacts
 Yasha and Kaya,,upgrades_artifacts
