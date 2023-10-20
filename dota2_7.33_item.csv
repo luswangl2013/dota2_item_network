@@ -233,21 +233,19 @@ Aether Lens,,upgrades_magical
 Aghanim's Blessing,,upgrades_magical
 Aghanim's Scepter,Aghanim's Blessing,upgrades_magical
 Dagon,,upgrades_magical
-Eul's Scepter of Divinity,,upgrades_magical
-Force Staff,,upgrades_magical
+Eul's Scepter of Divinity,Wind Waker,upgrades_magical
+Force Staff,Hurricane Pike,upgrades_magical
 Gleipnir,,upgrades_magical
 Glimmer Cape,,upgrades_magical
 Octarine Core,,upgrades_magical
-Orchid Malevolence,,upgrades_magical
+Orchid Malevolence,Bloodthorn,upgrades_magical
 Refresher Orb,,upgrades_magical
-Rod of Atos,,upgrades_magical
+Rod of Atos,Gleipnir,upgrades_magical
 Scythe of Vyse,,upgrades_magical
 Solar Crest,,upgrades_magical
 Veil of Discord,,upgrades_magical
 Wind Waker,,upgrades_magical
-Witch Blade,,upgrades_magical
-,,upgrades_magical
-,,upgrades_magical
+Witch Blade,Revenant's Brooch,upgrades_magical
 Aeon Disk,,upgrades_armor
 Assault Cuirass,,upgrades_armor
 Black King Bar,,upgrades_armor
@@ -261,13 +259,10 @@ Linken's Sphere,,upgrades_armor
 Lotus Orb,,upgrades_armor
 Manta Style,,upgrades_armor
 Shiva's Guard,,upgrades_armor
-Soul Booster,,upgrades_armor
-Vanguard,,upgrades_armor
-,,upgrades_armor
-,,upgrades_armor
-,,upgrades_armor
-,,upgrades_armor
-,,upgrades_armor
+Soul Booster,Octarine Core,upgrades_armor
+Soul Booster,Bloodstone,upgrades_armor
+Vanguard,Crimson Guard,upgrades_armor
+Vanguard,Abyssal Blade,upgrades_armor
 Abyssal Blade,,upgrades_weapons
 Armlet of Mordiggian,,upgrades_weapons
 Battle Fury,,upgrades_weapons
